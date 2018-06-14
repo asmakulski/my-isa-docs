@@ -13,3 +13,5 @@ sh idea.sh .
 sudo apt-get install git
 git --version
 
+
+bla
