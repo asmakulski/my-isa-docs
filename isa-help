@@ -1,0 +1,15 @@
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install default-jre
+java -version
+
+download IntelliJ
+navigate to the download folder
+sudo tar xf ideaIC—*.tar.gz -C /opt/
+after unpacking:
+cd /opt/ideaIU-*
+cd bin
+sh idea.sh .
+sudo apt-get install git
+git --version
+
